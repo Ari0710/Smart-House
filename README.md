@@ -1,6 +1,6 @@
 # Python client for Blynk IoT
 
-**Note:** The library has been updated for Blynk 2.0. and Add my project of Smart House Ptoject Run File is home.py  
+**Note:** The library has been updated for Blynk 2.0. and ** Add my project of Smart House Ptoject Run File is home.py **
 Please remain on `v0.2.0` for legacy Blynk.
 
 [![GitHub version](https://img.shields.io/github/release/vshymanskyy/blynk-library-python.svg)](https://github.com/vshymanskyy/blynk-library-python/releases/latest)
